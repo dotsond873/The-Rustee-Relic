@@ -1,0 +1,83 @@
+{
+  "theme": "dark",
+  "archetype": "Archetype 5 (Jewel & Luxury)",
+  "vibe": "Cinematic, moody, expensive feel with deep shadows and glamorous golden accents.",
+  "colors": {
+    "background": "#050A15",
+    "surface": "rgba(255, 255, 255, 0.03)",
+    "surface_glass": "rgba(10, 15, 30, 0.6)",
+    "border": "rgba(255, 255, 255, 0.08)",
+    "text_primary": "#FFFFFF",
+    "text_secondary": "rgba(255, 255, 255, 0.6)",
+    "accent_primary": "#D4AF37",
+    "accent_secondary": "#064E3B",
+    "warning": "#FF3B30",
+    "error": "#FF3B30"
+  },
+  "typography": {
+    "headings": {
+      "font_family": "Cormorant Garamond",
+      "style": "serif, tracking-tight, cinematic",
+      "weights": ["400", "600", "700"]
+    },
+    "body": {
+      "font_family": "Outfit",
+      "style": "sans-serif, geometric, readable",
+      "weights": ["300", "400", "500"]
+    }
+  },
+  "spacing_and_layout": {
+    "philosophy": "Generous Spacing (Tailwind Scale p-8, p-12, p-16).",
+    "grid_strategy": "The Bento Grid (Tetris Mode) for side-by-side uploads and history gallery.",
+    "alignment": "Left-align text, center-align hero CTA.",
+    "surfaces": "Glassmorphism for floating elements (backdrop-blur-xl), solid dark backgrounds for data."
+  },
+  "components": {
+    "buttons": {
+      "primary": "Solid Gold/Amber text on dark background with The Tracing Beam (glow) effect, or glowing border. Hover: scale slightly, increase glow.",
+      "secondary": "Glass button, bg-white/5, backdrop-blur-md, 1px white/10 border"
+    },
+    "inputs": {
+      "style": "Dark background (bg-black/40), white/10 border, ring-amber-500/50 on focus. Soft padding (p-4)."
+    },
+    "cards": {
+      "style": "Crystal Glass variant: bg-white/5, backdrop-blur-xl, 1px delicate inner stroke (border-white/10), soft shadow. Rounded-2xl."
+    }
+  },
+  "micro_animations": {
+    "hover": "-translate-y-1, shadow-lg, border color brightens to white/30.",
+    "loading": "Cinematic pulse / skeleton shimmer using framer-motion. Text: 'Staging the scene...', 'Adjusting lights...'",
+    "reveal": "Fade-in with slow scale down (1.05 -> 1.0) for the generated image."
+  },
+  "accessibility_and_testing": {
+    "contrast": "Ensure APCA > 60 for text. Use drop-shadows on text over images.",
+    "data_testids": [
+      "user-photo-upload",
+      "celebrity-photo-upload",
+      "scene-prompt-input",
+      "generate-photo-button",
+      "download-result-button",
+      "history-gallery-grid"
+    ]
+  },
+  "media_urls": {
+    "cinematic_background": "https://static.prod-images.emergentagent.com/jobs/7b2eee67-cdcd-4b84-a844-9653a0a3fc84/images/c5cf2fc4e88634b3e8393cb18601d7bb41a1251a4b1a2672f85dbba3223fd2df.png",
+    "placeholder_user": "https://images.unsplash.com/photo-1568602471122-7832951cc4c5?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2NzZ8MHwxfHNlYXJjaHwxfHxwb3J0cmFpdCUyMG1hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzc4ODA5ODE0fDA&ixlib=rb-4.1.0&q=85",
+    "placeholder_celebrity": "https://images.unsplash.com/photo-1506863530036-1efeddceb993?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NTY2Nzd8MHwxfHNlYXJjaHwxfHxnbGFtb3JvdXMlMjB3b21hbiUyMHBvcnRyYWl0fGVufDB8fHx8MTc3ODgwOTgxNHww&ixlib=rb-4.1.0&q=85",
+    "placeholder_result": "https://images.unsplash.com/photo-1561132667-ab2a54ebf2dc?crop=entropy&cs=srgb&fm=jpg&ixid=M3w3NDk1Nzh8MHwxfHNlYXJjaHwxfHxjb3VwbGUlMjBjYWZlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzc4ODA5ODIxfDA&ixlib=rb-4.1.0&q=85"
+  },
+  "instructions_to_main_agent": [
+    "Install Google Fonts 'Cormorant Garamond' and 'Outfit'.",
+    "Use lucide-react for icons.",
+    "Implement the layout with a fixed or sticky glassmorphism header.",
+    "The Hero section should have a title like 'Star In Your Own Scene' using Cormorant Garamond text-5xl.",
+    "Implement two upload dropzones using the bento grid strategy (one for user, one for celebrity).",
+    "Use framer-motion for the Generate button and image reveal animations.",
+    "Ensure the history gallery uses a masonry or bento layout (not boring square grids).",
+    "DO NOT use generic UI layouts; ensure asymmetrical spacing where appropriate.",
+    "Apply background texture (cinematic_background) with low opacity behind the UI or as a full screen fixed background.",
+    "Use data-testid attributes extensively as per guidelines.",
+    "Combine the photos based on user's text prompt securely.",
+    "Avoid generic 'SaaS Blue' or purple/violet on white colors."
+  ]
+}
