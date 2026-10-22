@@ -8,7 +8,7 @@
     "priceCents": 45000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -44,7 +44,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427429752013_00CE"
-    }
+    },
+    "collections": [
+      "Showcase"
+    ]
   },
   {
     "id": "427355665204_2EA3",
@@ -55,7 +58,7 @@
     "priceCents": 4499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "Angler_Gear",
       "ATC_Mentor_Reel",
@@ -109,7 +112,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355665204_2EA3"
-    }
+    },
+    "collections": [
+      "Featured"
+    ]
   },
   {
     "id": "428319587042_8360",
@@ -120,7 +126,7 @@
     "priceCents": 4500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -156,7 +162,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428319587042_8360"
-    }
+    },
+    "collections": [
+      "Featured"
+    ]
   },
   {
     "id": "428319807243_505D",
@@ -167,7 +176,7 @@
     "priceCents": 5500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -204,7 +213,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428319807243_505D"
-    }
+    },
+    "collections": [
+      "Featured"
+    ]
   },
   {
     "id": "427544735581_1906",
@@ -215,7 +227,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -251,7 +263,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427544735581_1906"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428318763582_84EC",
@@ -262,7 +275,7 @@
     "priceCents": 2399,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -298,7 +311,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428318763582_84EC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427436303320_B91B",
@@ -309,7 +323,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -345,7 +359,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427436303320_B91B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427455889081_451B",
@@ -356,7 +371,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -392,7 +407,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427455889081_451B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427329236829_4E6D",
@@ -403,7 +419,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_collectible",
       "antique_fishing_tack",
@@ -458,7 +474,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427329236829_4E6D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327837963_9C45",
@@ -469,7 +486,7 @@
     "priceCents": 6999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_essentials",
       "baitcast_fishing_ree",
@@ -524,7 +541,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327837963_9C45"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427451526022_41F2",
@@ -535,7 +553,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -572,7 +590,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427451526022_41F2"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427350884680_5FEA",
@@ -583,7 +602,7 @@
     "priceCents": 799,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -619,7 +638,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427350884680_5FEA"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327807161_935A",
@@ -630,7 +650,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_essentials",
       "baitcast_fishing_ree",
@@ -685,7 +705,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327807161_935A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355774976_CB43",
@@ -696,7 +717,7 @@
     "priceCents": 6999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "Angler_Gear",
       "Baitcaster_Reel",
@@ -752,7 +773,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355774976_CB43"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481828619_FB62",
@@ -763,7 +785,7 @@
     "priceCents": 499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -800,7 +822,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481828619_FB62"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481589412_CB23",
@@ -811,7 +834,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -848,7 +871,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481589412_CB23"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428415724094_C838",
@@ -859,7 +883,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -895,7 +919,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428415724094_C838"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399329936_B58F",
@@ -906,7 +931,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -942,7 +967,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399329936_B58F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399154955_8719",
@@ -953,7 +979,7 @@
     "priceCents": 1899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -989,7 +1015,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399154955_8719"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427442799903_261C",
@@ -1000,7 +1027,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -1036,7 +1063,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427442799903_261C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323263284_E0AE",
@@ -1047,7 +1075,7 @@
     "priceCents": 800,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -1083,7 +1111,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323263284_E0AE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427324444836_7253",
@@ -1094,7 +1123,7 @@
     "priceCents": 4999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "black_fishing_reel",
       "classic_fishing",
@@ -1144,7 +1173,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427324444836_7253"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546089616_BD9A",
@@ -1155,7 +1185,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -1192,7 +1222,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546089616_BD9A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489019556_E322",
@@ -1203,7 +1234,7 @@
     "priceCents": 2599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -1240,7 +1271,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489019556_E322"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327286805_8846",
@@ -1251,7 +1283,7 @@
     "priceCents": 4499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_equipment",
       "baitcaster_reel",
@@ -1306,7 +1338,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327286805_8846"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546173502_B0DB",
@@ -1317,7 +1350,7 @@
     "priceCents": 1099,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -1354,7 +1387,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546173502_B0DB"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327282545_EE71",
@@ -1365,7 +1399,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_equipment",
       "classic_fishing_reel",
@@ -1420,7 +1454,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327282545_EE71"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428508571894_2D4C",
@@ -1431,7 +1466,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -1468,7 +1503,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428508571894_2D4C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427326340137_26FF",
@@ -1479,7 +1515,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_collectible",
       "auto_cast_reel",
@@ -1534,7 +1570,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427326340137_26FF"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-TH-010",
@@ -1545,7 +1582,7 @@
     "priceCents": 2200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -1581,7 +1618,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-TH-010"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489561211_A380",
@@ -1592,7 +1630,7 @@
     "priceCents": 8599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -1629,7 +1667,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489561211_A380"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428542493656_5272",
@@ -1640,7 +1679,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -1676,7 +1715,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428542493656_5272"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489578578_E295",
@@ -1687,7 +1727,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -1723,7 +1763,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489578578_E295"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399039611_F367",
@@ -1734,7 +1775,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -1770,7 +1811,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399039611_F367"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489537291_A53D",
@@ -1781,7 +1823,7 @@
     "priceCents": 2500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage electronics",
     "tags": [],
     "materials": "",
     "images": [
@@ -1818,7 +1860,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489537291_A53D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-GS-007",
@@ -1829,7 +1872,7 @@
     "priceCents": 5999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -1865,7 +1908,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-GS-007"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399582249_54BD",
@@ -1876,7 +1920,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -1912,7 +1956,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399582249_54BD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398349190_A4A1",
@@ -1923,7 +1968,7 @@
     "priceCents": 599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -1959,7 +2004,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398349190_A4A1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428397880935_48AB",
@@ -1970,7 +2016,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2006,7 +2052,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428397880935_48AB"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333175604_EBB1",
@@ -2017,7 +2064,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2053,7 +2100,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333175604_EBB1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323318334_C9C1",
@@ -2064,7 +2112,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage electronics",
     "tags": [],
     "materials": "",
     "images": [
@@ -2100,7 +2148,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323318334_C9C1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "EL-SP-001",
@@ -2111,7 +2160,7 @@
     "priceCents": 12500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage electronics",
     "tags": [],
     "materials": "",
     "images": [
@@ -2147,7 +2196,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "EL-SP-001"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428554829169_698D",
@@ -2158,7 +2208,7 @@
     "priceCents": 3500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2194,7 +2244,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428554829169_698D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398500905_5043",
@@ -2205,7 +2256,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2241,7 +2292,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398500905_5043"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428545825506_EA7B",
@@ -2252,7 +2304,7 @@
     "priceCents": 899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -2288,7 +2340,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428545825506_EA7B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427456263291_0CD7",
@@ -2299,7 +2352,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -2335,7 +2388,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427456263291_0CD7"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428486293259_7E8B",
@@ -2346,7 +2400,7 @@
     "priceCents": 7999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2382,7 +2436,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428486293259_7E8B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-CD-015",
@@ -2393,7 +2448,7 @@
     "priceCents": 2000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -2429,7 +2484,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-CD-015"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-MC-003",
@@ -2440,7 +2496,7 @@
     "priceCents": 1200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2477,7 +2533,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-MC-003"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428482172683_F08A",
@@ -2488,7 +2545,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2524,7 +2581,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428482172683_F08A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546165965_23AD",
@@ -2535,7 +2593,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -2572,7 +2630,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546165965_23AD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428512096748_A4FA",
@@ -2583,7 +2642,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2619,7 +2678,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428512096748_A4FA"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428512126895_AC95",
@@ -2630,7 +2690,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -2666,7 +2726,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428512126895_AC95"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398677197_98C8",
@@ -2677,7 +2738,7 @@
     "priceCents": 1199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2714,7 +2775,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398677197_98C8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428358054052_850F",
@@ -2725,7 +2787,7 @@
     "priceCents": 1699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2761,7 +2823,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428358054052_850F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399347303_92AE",
@@ -2772,7 +2835,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2809,7 +2872,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399347303_92AE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333898138_83A9",
@@ -2820,7 +2884,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2856,7 +2920,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333898138_83A9"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333061899_81CE",
@@ -2867,7 +2932,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2904,7 +2969,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333061899_81CE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333036995_8757",
@@ -2915,7 +2981,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2951,7 +3017,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333036995_8757"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428359551878_EC1A",
@@ -2962,7 +3029,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -2998,7 +3065,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428359551878_EC1A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333324698_67C2",
@@ -3009,7 +3077,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3047,7 +3115,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333324698_67C2"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323632579_1B43",
@@ -3058,7 +3127,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3094,7 +3163,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323632579_1B43"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427451788166_F410",
@@ -3105,7 +3175,7 @@
     "priceCents": 1699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -3141,7 +3211,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427451788166_F410"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546180056_1B33",
@@ -3152,7 +3223,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -3189,7 +3260,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546180056_1B33"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427451772765_B16A",
@@ -3200,7 +3272,7 @@
     "priceCents": 2099,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -3236,7 +3308,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427451772765_B16A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546127299_EA33",
@@ -3247,7 +3320,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -3284,7 +3357,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546127299_EA33"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427456106988_F505",
@@ -3295,7 +3369,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3331,7 +3405,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427456106988_F505"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481271890_4B62",
@@ -3342,7 +3417,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -3378,7 +3453,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481271890_4B62"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428332483216_2F7A",
@@ -3389,7 +3465,7 @@
     "priceCents": 600,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3425,7 +3501,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428332483216_2F7A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398756496_FC01",
@@ -3436,7 +3513,7 @@
     "priceCents": 2400,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3472,7 +3549,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398756496_FC01"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398578566_EB8A",
@@ -3483,7 +3561,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3519,7 +3597,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398578566_EB8A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428432443638_8758",
@@ -3530,7 +3609,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -3567,7 +3646,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428432443638_8758"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428388282860_F4A8",
@@ -3578,7 +3658,7 @@
     "priceCents": 599,
     "currency": "USD",
     "quantity": 29,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3623,7 +3703,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428388282860_F4A8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323456287_C268",
@@ -3634,7 +3715,7 @@
     "priceCents": 2200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3670,7 +3751,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323456287_C268"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427442789745_7E95",
@@ -3681,7 +3763,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -3717,7 +3799,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427442789745_7E95"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428333007832_07D4",
@@ -3728,7 +3811,7 @@
     "priceCents": 599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3764,7 +3847,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428333007832_07D4"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428332647384_9391",
@@ -3775,7 +3859,7 @@
     "priceCents": 3799,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -3812,7 +3896,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428332647384_9391"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428545968702_F715",
@@ -3823,7 +3908,7 @@
     "priceCents": 1399,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -3859,7 +3944,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428545968702_F715"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355875902_DA64",
@@ -3870,7 +3956,7 @@
     "priceCents": 4299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "collectible_fishing",
       "dual_ball_bearing_re",
@@ -3922,7 +4008,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355875902_DA64"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323274097_8D43",
@@ -3933,7 +4020,7 @@
     "priceCents": 2899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -3969,7 +4056,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323274097_8D43"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428509083730_2744",
@@ -3980,7 +4068,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4016,7 +4104,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428509083730_2744"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427349435024_90D9",
@@ -4027,7 +4116,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -4064,7 +4153,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427349435024_90D9"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428432438723_4A5E",
@@ -4075,7 +4165,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4112,7 +4202,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428432438723_4A5E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323544761_06DE",
@@ -4123,7 +4214,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4159,7 +4250,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323544761_06DE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355796603_FACC",
@@ -4170,7 +4262,7 @@
     "priceCents": 2300,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -4206,7 +4298,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355796603_FACC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327300240_F642",
@@ -4217,7 +4310,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "1960s"
     ],
@@ -4260,7 +4353,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327300240_F642"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327270093_8578",
@@ -4271,7 +4365,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [
       "antique",
       "porcelain",
@@ -4313,7 +4407,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327270093_8578"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428407104472_07F5",
@@ -4324,7 +4419,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4360,7 +4455,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428407104472_07F5"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428371372934_572C",
@@ -4371,7 +4467,7 @@
     "priceCents": 2199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4408,7 +4504,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428371372934_572C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427456361595_DCD6",
@@ -4419,7 +4516,7 @@
     "priceCents": 499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -4455,7 +4552,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427456361595_DCD6"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427436459623_2A47",
@@ -4466,7 +4564,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4502,7 +4600,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427436459623_2A47"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489622815_F305",
@@ -4513,7 +4612,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4549,7 +4648,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489622815_F305"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327587615_C845",
@@ -4560,7 +4660,7 @@
     "priceCents": 4799,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "angler_gear",
       "bass_fishing_equipme",
@@ -4613,7 +4713,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327587615_C845"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428509124035_EF10",
@@ -4624,7 +4725,7 @@
     "priceCents": 1099,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4661,7 +4762,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428509124035_EF10"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428381563782_89B6",
@@ -4672,7 +4774,7 @@
     "priceCents": 9999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4708,7 +4810,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428381563782_89B6"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428371105547_DA3D",
@@ -4719,7 +4822,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4756,7 +4859,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428371105547_DA3D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428504328766_7A14",
@@ -4767,7 +4871,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -4803,7 +4907,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428504328766_7A14"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323747922_CE1E",
@@ -4814,7 +4919,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4850,7 +4955,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323747922_CE1E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428553970975_849E",
@@ -4861,7 +4967,7 @@
     "priceCents": 15999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -4897,7 +5003,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428553970975_849E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428545993606_1134",
@@ -4908,7 +5015,7 @@
     "priceCents": 1199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -4945,7 +5052,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428545993606_1134"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428375007232_79CC",
@@ -4956,7 +5064,7 @@
     "priceCents": 7496,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -4992,7 +5100,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428375007232_79CC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323485123_D162",
@@ -5003,7 +5112,7 @@
     "priceCents": 3200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5040,7 +5149,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323485123_D162"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428398624768_3F94",
@@ -5051,7 +5161,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5087,7 +5197,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428398624768_3F94"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427436360664_C7C4",
@@ -5098,7 +5209,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5134,7 +5245,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427436360664_C7C4"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428318438523_E513",
@@ -5145,7 +5257,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -5182,7 +5294,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428318438523_E513"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-NR-002",
@@ -5193,7 +5306,7 @@
     "priceCents": 1800,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5231,7 +5344,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-NR-002"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428508573860_B8E8",
@@ -5242,7 +5356,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5279,7 +5393,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428508573860_B8E8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489572352_78A5",
@@ -5290,7 +5405,7 @@
     "priceCents": 6599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5326,7 +5441,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489572352_78A5"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427545161892_D958",
@@ -5337,7 +5453,7 @@
     "priceCents": 27500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5374,7 +5490,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427545161892_D958"
-    }
+    },
+    "collections": [
+      "Showcase"
+    ]
   },
   {
     "id": "428323486434_B7BD",
@@ -5385,7 +5504,7 @@
     "priceCents": 2800,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5421,7 +5540,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323486434_B7BD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323262628_D8DB",
@@ -5432,7 +5552,7 @@
     "priceCents": 299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -5468,7 +5588,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323262628_D8DB"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323474637_7426",
@@ -5479,7 +5600,7 @@
     "priceCents": 1399,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5515,7 +5636,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323474637_7426"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481682146_0A04",
@@ -5526,7 +5648,7 @@
     "priceCents": 2199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -5564,7 +5686,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481682146_0A04"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428519470859_8F90",
@@ -5575,7 +5698,7 @@
     "priceCents": 6999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -5611,7 +5734,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428519470859_8F90"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427451645952_2869",
@@ -5622,7 +5746,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -5659,7 +5783,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427451645952_2869"
-    }
+    },
+    "collections": []
   },
   {
     "id": "HM-PV-003",
@@ -5670,7 +5795,7 @@
     "priceCents": 2299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -5707,7 +5832,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "HM-PV-003"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-JR-001",
@@ -5718,7 +5844,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5754,7 +5880,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-JR-001"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-004",
@@ -5765,7 +5892,7 @@
     "priceCents": 1400,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5802,7 +5929,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-004"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-010",
@@ -5813,7 +5941,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5849,7 +5977,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-010"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-TS-016",
@@ -5860,7 +5989,7 @@
     "priceCents": 6499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -5897,7 +6026,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-TS-016"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-MJ-006",
@@ -5908,7 +6038,7 @@
     "priceCents": 1800,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5944,7 +6074,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-MJ-006"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-008",
@@ -5955,7 +6086,7 @@
     "priceCents": 2400,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -5992,7 +6123,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-008"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-MJ-011",
@@ -6003,7 +6135,7 @@
     "priceCents": 899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -6040,7 +6172,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-MJ-011"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-JR-002",
@@ -6051,7 +6184,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -6088,7 +6221,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-JR-002"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-HW-006",
@@ -6099,7 +6233,7 @@
     "priceCents": 1200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6135,7 +6269,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-HW-006"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481777501_461F",
@@ -6146,7 +6281,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -6183,7 +6318,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481777501_461F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428554529342_F38C",
@@ -6194,7 +6330,7 @@
     "priceCents": 9999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6232,7 +6368,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428554529342_F38C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-SW-008",
@@ -6243,7 +6380,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6279,7 +6416,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-SW-008"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428432297493_FB2D",
@@ -6290,7 +6428,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6327,7 +6465,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428432297493_FB2D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-VP-009",
@@ -6338,7 +6477,7 @@
     "priceCents": 9999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6374,7 +6513,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-VP-009"
-    }
+    },
+    "collections": []
   },
   {
     "id": "HM-EL-001",
@@ -6385,7 +6525,7 @@
     "priceCents": 7999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6421,7 +6561,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "HM-EL-001"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-SL-007",
@@ -6432,7 +6573,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6468,7 +6609,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-SL-007"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-FJ-010",
@@ -6479,7 +6621,7 @@
     "priceCents": 15000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6516,7 +6658,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-FJ-010"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428509685023_0D1B",
@@ -6527,7 +6670,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6568,7 +6711,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428509685023_0D1B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428560128410_A9EC",
@@ -6579,7 +6723,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6615,7 +6759,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428560128410_A9EC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-NR-003",
@@ -6626,7 +6771,7 @@
     "priceCents": 2500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6662,7 +6807,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-NR-003"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-005",
@@ -6673,7 +6819,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 2,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -6710,7 +6856,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-005"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428563069666_F43D",
@@ -6721,7 +6868,7 @@
     "priceCents": 20999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6757,7 +6904,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428563069666_F43D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-HR-002",
@@ -6768,7 +6916,7 @@
     "priceCents": 4000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Tools & Workshop",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -6805,7 +6953,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-HR-002"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428511757599_6423",
@@ -6816,7 +6965,7 @@
     "priceCents": 3599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6852,7 +7001,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428511757599_6423"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489591030_EBCC",
@@ -6863,7 +7013,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6899,7 +7049,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489591030_EBCC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481185055_4BE9",
@@ -6910,7 +7061,7 @@
     "priceCents": 3299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6946,7 +7097,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481185055_4BE9"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428519389594_ADB7",
@@ -6957,7 +7109,7 @@
     "priceCents": 2199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -6993,7 +7145,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428519389594_ADB7"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428558542111_985A",
@@ -7004,7 +7157,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7040,7 +7193,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428558542111_985A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428542997627_20E7",
@@ -7051,7 +7205,7 @@
     "priceCents": 1699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -7087,7 +7241,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428542997627_20E7"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428512081019_44F6",
@@ -7098,7 +7253,7 @@
     "priceCents": 4999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7134,7 +7289,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428512081019_44F6"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428557190431_34FF",
@@ -7145,7 +7301,7 @@
     "priceCents": 22999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7184,7 +7340,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428557190431_34FF"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428547609068_EDE4",
@@ -7195,7 +7352,7 @@
     "priceCents": 7999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7231,7 +7388,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428547609068_EDE4"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428542858363_3FDF",
@@ -7242,7 +7400,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -7278,7 +7436,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428542858363_3FDF"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489617572_622B",
@@ -7289,7 +7448,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7325,7 +7484,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489617572_622B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-007",
@@ -7336,7 +7496,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 4,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -7372,7 +7532,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-007"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428508642345_6FDE",
@@ -7383,7 +7544,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7419,7 +7580,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428508642345_6FDE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428560120873_8E7F",
@@ -7430,7 +7592,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7466,7 +7628,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428560120873_8E7F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428569298535_B571",
@@ -7477,7 +7640,7 @@
     "priceCents": 39999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -7522,7 +7685,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428569298535_B571"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428511005901_2E47",
@@ -7533,7 +7697,7 @@
     "priceCents": 12499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7570,7 +7734,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428511005901_2E47"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428558556857_914A",
@@ -7581,7 +7746,7 @@
     "priceCents": 5500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7618,7 +7783,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428558556857_914A"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428508587951_BD25",
@@ -7629,7 +7795,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7665,7 +7831,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428508587951_BD25"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327224546_0938",
@@ -7676,7 +7843,7 @@
     "priceCents": 8499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Fishing Gear",
+    "category": "Vintage fishing and outdoors",
     "tags": [
       "Abu_Garcia_Cardinal",
       "Abu_Garcia_collectib",
@@ -7731,7 +7898,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327224546_0938"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428512223232_5BDC",
@@ -7742,7 +7910,7 @@
     "priceCents": 5999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -7778,7 +7946,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428512223232_5BDC"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399659910_684C",
@@ -7789,7 +7958,7 @@
     "priceCents": 1496,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -7825,7 +7994,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399659910_684C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427428986553_B858",
@@ -7836,7 +8006,7 @@
     "priceCents": 2600,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -7878,7 +8048,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427428986553_B858"
-    }
+    },
+    "collections": []
   },
   {
     "id": "ET-42855722156130",
@@ -7889,7 +8060,7 @@
     "priceCents": 24999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -7925,7 +8096,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "ET-42855722156130"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428543068406_34DD",
@@ -7936,7 +8108,7 @@
     "priceCents": 899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -7972,7 +8144,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428543068406_34DD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481586791_7DF3",
@@ -7983,7 +8156,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8019,7 +8192,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481586791_7DF3"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481524532_C93D",
@@ -8030,7 +8204,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8066,7 +8240,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481524532_C93D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428543124112_D0CD",
@@ -8077,7 +8252,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8114,7 +8289,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428543124112_D0CD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "TL-GR-001",
@@ -8125,7 +8301,7 @@
     "priceCents": 2000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage tools",
     "tags": [],
     "materials": "",
     "images": [
@@ -8161,7 +8337,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "TL-GR-001"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-MJ-005",
@@ -8172,7 +8349,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -8208,7 +8385,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-MJ-005"
-    }
+    },
+    "collections": []
   },
   {
     "id": "HM-BC-003",
@@ -8219,7 +8397,7 @@
     "priceCents": 4999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -8256,7 +8434,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "HM-BC-003"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-TB-008",
@@ -8267,7 +8446,7 @@
     "priceCents": 2200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -8303,7 +8482,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-TB-008"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-MJ-014",
@@ -8314,7 +8494,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8351,7 +8531,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-MJ-014"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-CG-001",
@@ -8362,7 +8543,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8398,7 +8579,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-CG-001"
-    }
+    },
+    "collections": []
   },
   {
     "id": "HM-GS-002",
@@ -8409,7 +8591,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 3,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -8445,7 +8627,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "HM-GS-002"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428546049639_9BC1",
@@ -8456,7 +8639,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8492,7 +8675,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428546049639_9BC1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-MJ-004",
@@ -8503,7 +8687,7 @@
     "priceCents": 2899,
     "currency": "USD",
     "quantity": 3,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8539,7 +8723,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-MJ-004"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-006",
@@ -8550,7 +8735,7 @@
     "priceCents": 1996,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8586,7 +8771,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-006"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-009",
@@ -8597,7 +8783,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8633,7 +8819,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-009"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428543019910_4EC7",
@@ -8644,7 +8831,7 @@
     "priceCents": 399,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8681,7 +8868,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428543019910_4EC7"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-GB-012",
@@ -8692,7 +8880,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -8728,7 +8916,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-GB-012"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481515357_EF62",
@@ -8739,7 +8928,7 @@
     "priceCents": 5500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -8775,7 +8964,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481515357_EF62"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428543045141_098B",
@@ -8786,7 +8976,7 @@
     "priceCents": 1199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8823,7 +9013,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428543045141_098B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428480239043_1713",
@@ -8834,7 +9025,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8871,7 +9062,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428480239043_1713"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428543002870_1BF5",
@@ -8882,7 +9074,7 @@
     "priceCents": 699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -8918,7 +9110,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428543002870_1BF5"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428480200377_1510",
@@ -8929,7 +9122,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -8965,7 +9158,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428480200377_1510"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489575957_642D",
@@ -8976,7 +9170,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -9012,7 +9206,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489575957_642D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428432457401_8DA4",
@@ -9023,7 +9218,7 @@
     "priceCents": 499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -9059,7 +9254,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428432457401_8DA4"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489541878_75DF",
@@ -9070,7 +9266,7 @@
     "priceCents": 599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9106,7 +9302,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489541878_75DF"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481864008_F767",
@@ -9117,7 +9314,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -9154,7 +9351,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481864008_F767"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481535017_4DEA",
@@ -9165,7 +9363,7 @@
     "priceCents": 1200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9201,7 +9399,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481535017_4DEA"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481528792_8B93",
@@ -9212,7 +9411,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9248,7 +9447,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481528792_8B93"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428432313549_D65D",
@@ -9259,7 +9459,7 @@
     "priceCents": 650,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -9296,7 +9496,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428432313549_D65D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428399444952_AA3F",
@@ -9307,7 +9508,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -9343,7 +9544,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428399444952_AA3F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "VG-MB-003",
@@ -9354,7 +9556,7 @@
     "priceCents": 1699,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -9390,7 +9592,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "VG-MB-003"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428547558933_636E",
@@ -9401,7 +9604,7 @@
     "priceCents": 4999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -9437,7 +9640,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428547558933_636E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481019249_1CE7",
@@ -9448,7 +9652,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9484,7 +9688,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481019249_1CE7"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428489546466_D890",
@@ -9495,7 +9700,7 @@
     "priceCents": 700,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9531,7 +9736,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428489546466_D890"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428481366590_F8AE",
@@ -9542,7 +9748,7 @@
     "priceCents": 2999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -9579,7 +9785,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428481366590_F8AE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427528289649_507E",
@@ -9590,7 +9797,7 @@
     "priceCents": 80000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -9627,7 +9834,10 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427528289649_507E"
-    }
+    },
+    "collections": [
+      "Showcase"
+    ]
   },
   {
     "id": "427322472203_DC3C",
@@ -9638,7 +9848,7 @@
     "priceCents": 2200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "antique",
       "deviled_egg_plate",
@@ -9680,7 +9890,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427322472203_DC3C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "2acc4932",
@@ -9691,7 +9902,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [
       "Excellent",
       "Vintage_Dishes"
@@ -9736,7 +9947,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "2acc4932"
-    }
+    },
+    "collections": []
   },
   {
     "id": "ae1bdc69",
@@ -9747,7 +9959,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [
       "Excellent",
       "Vintage_Dishes"
@@ -9792,7 +10004,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "ae1bdc69"
-    }
+    },
+    "collections": []
   },
   {
     "id": "a35fa2d5",
@@ -9803,7 +10016,7 @@
     "priceCents": 299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Miscellaneous",
     "tags": [
       "Antique_Furniture_an",
       "Fair"
@@ -9848,7 +10061,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "a35fa2d5"
-    }
+    },
+    "collections": []
   },
   {
     "id": "d7e17f2c",
@@ -9859,7 +10073,7 @@
     "priceCents": 1649,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Miscellaneous",
     "tags": [
       "Excellent",
       "Vintage_Dishes"
@@ -9904,7 +10118,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "d7e17f2c"
-    }
+    },
+    "collections": []
   },
   {
     "id": "f2132df8",
@@ -9915,7 +10130,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "Very_Good",
       "Vintage_Dishes"
@@ -9960,7 +10175,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "f2132df8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "e798aada",
@@ -9971,7 +10187,7 @@
     "priceCents": 3000,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [
       "Antique_Furniture_an",
       "Very_Good"
@@ -10016,7 +10232,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "e798aada"
-    }
+    },
+    "collections": []
   },
   {
     "id": "5c7ba444",
@@ -10027,7 +10244,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [
       "Excellent",
       "Vintage_Dishes"
@@ -10072,7 +10289,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "5c7ba444"
-    }
+    },
+    "collections": []
   },
   {
     "id": "2f6031d3",
@@ -10083,7 +10301,7 @@
     "priceCents": 1799,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "Mint",
       "Vintage_Dishes"
@@ -10128,7 +10346,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "2f6031d3"
-    }
+    },
+    "collections": []
   },
   {
     "id": "35b3b25e",
@@ -10139,7 +10358,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [
       "Antique_Furniture_an",
       "Very_Good"
@@ -10184,7 +10403,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "35b3b25e"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323630285_37BE",
@@ -10195,7 +10415,7 @@
     "priceCents": 3500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10231,7 +10451,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323630285_37BE"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323538535_E49B",
@@ -10242,7 +10463,7 @@
     "priceCents": 4200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10278,7 +10499,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323538535_E49B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428407097590_2363",
@@ -10289,7 +10511,7 @@
     "priceCents": 4999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10325,7 +10547,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428407097590_2363"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323518546_6953",
@@ -10336,7 +10559,7 @@
     "priceCents": 1500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10372,7 +10595,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323518546_6953"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428332551046_54EA",
@@ -10383,7 +10607,7 @@
     "priceCents": 1599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10419,7 +10643,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428332551046_54EA"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355842151_6B44",
@@ -10430,7 +10655,7 @@
     "priceCents": 1999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -10466,7 +10691,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355842151_6B44"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427343844475_1EF8",
@@ -10477,7 +10703,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -10514,7 +10740,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427343844475_1EF8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427329755546_256E",
@@ -10525,7 +10752,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [
       "collectible",
       "farmhouse",
@@ -10567,7 +10794,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427329755546_256E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427328942572_5DBD",
@@ -10578,7 +10806,7 @@
     "priceCents": 1500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [
       "antique",
       "collectible",
@@ -10620,7 +10848,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427328942572_5DBD"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327301551_2ED8",
@@ -10631,7 +10860,7 @@
     "priceCents": 2299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Home & Decor",
+    "category": "Vintage home decor and glassware",
     "tags": [
       "candle_holder",
       "chamberstick",
@@ -10676,7 +10905,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327301551_2ED8"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355773010_125F",
@@ -10687,7 +10917,7 @@
     "priceCents": 299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -10724,7 +10954,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355773010_125F"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427351863788_3FD0",
@@ -10735,7 +10966,7 @@
     "priceCents": 1099,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -10772,7 +11003,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427351863788_3FD0"
-    }
+    },
+    "collections": []
   },
   {
     "id": "a55a8e91",
@@ -10783,7 +11015,7 @@
     "priceCents": 599,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [
       "Very_Good",
       "Vintage_Dishes"
@@ -10828,7 +11060,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "a55a8e91"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428386808955_73C5",
@@ -10839,7 +11072,7 @@
     "priceCents": 4500,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10876,7 +11109,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428386808955_73C5"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-GB-011",
@@ -10887,7 +11121,7 @@
     "priceCents": 3299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -10926,7 +11160,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-GB-011"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428332868568_F9DF",
@@ -10937,7 +11172,7 @@
     "priceCents": 1100,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -10973,7 +11208,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428332868568_F9DF"
-    }
+    },
+    "collections": []
   },
   {
     "id": "AQ-PB-009",
@@ -10984,7 +11220,7 @@
     "priceCents": 2299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11020,7 +11256,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "AQ-PB-009"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427455829771_7D6B",
@@ -11031,7 +11268,7 @@
     "priceCents": 7999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Alabama & Sports Collectibles",
+    "category": "Miscellaneous",
     "tags": [],
     "materials": "",
     "images": [
@@ -11067,7 +11304,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427455829771_7D6B"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427353784320_5162",
@@ -11078,7 +11316,7 @@
     "priceCents": 2899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11114,7 +11352,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427353784320_5162"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355760231_05F1",
@@ -11125,7 +11364,7 @@
     "priceCents": 1799,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -11161,7 +11400,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355760231_05F1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427351973888_1949",
@@ -11172,7 +11412,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -11208,7 +11448,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427351973888_1949"
-    }
+    },
+    "collections": []
   },
   {
     "id": "0a997738",
@@ -11219,7 +11460,7 @@
     "priceCents": 1499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [
       "Mint",
       "Vintage_Dishes"
@@ -11264,7 +11505,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "0a997738"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427332793467_3630",
@@ -11275,7 +11517,7 @@
     "priceCents": 1600,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "crystal",
       "cut_glass",
@@ -11317,7 +11559,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427332793467_3630"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327281562_A31C",
@@ -11328,7 +11571,7 @@
     "priceCents": 2899,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [
       "1980s",
       "collectible",
@@ -11370,7 +11613,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327281562_A31C"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427326584259_4728",
@@ -11381,7 +11625,7 @@
     "priceCents": 3200,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "Anchor_Hocking",
       "crystal_bowl",
@@ -11423,7 +11667,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427326584259_4728"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427428990813_0D72",
@@ -11434,7 +11679,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11476,7 +11721,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427428990813_0D72"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355853620_1DC2",
@@ -11487,7 +11733,7 @@
     "priceCents": 400,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Vintage home decor and glassware",
     "tags": [],
     "materials": "",
     "images": [
@@ -11523,7 +11769,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355853620_1DC2"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427354810942_0A9D",
@@ -11534,7 +11781,7 @@
     "priceCents": 2189,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11570,7 +11817,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427354810942_0A9D"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427350740501_6D26",
@@ -11581,7 +11829,7 @@
     "priceCents": 999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Kitchen & Table",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11617,7 +11865,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427350740501_6D26"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327881216_74B1",
@@ -11628,7 +11877,7 @@
     "priceCents": 2199,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "glass_bowl",
       "grape_pattern",
@@ -11670,7 +11919,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327881216_74B1"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327285167_43B9",
@@ -11681,7 +11931,7 @@
     "priceCents": 1299,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "cottage_core",
       "flower",
@@ -11723,7 +11973,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327285167_43B9"
-    }
+    },
+    "collections": []
   },
   {
     "id": "428323515597_B86E",
@@ -11734,7 +11985,7 @@
     "priceCents": 2499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique jars and bottles",
     "tags": [],
     "materials": "",
     "images": [
@@ -11770,7 +12021,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "428323515597_B86E"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327283200_C4F6",
@@ -11781,7 +12033,7 @@
     "priceCents": 1900,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Antique Dishes",
     "tags": [
       "glass_dish",
       "leaf",
@@ -11823,7 +12075,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327283200_C4F6"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427355866072_3929",
@@ -11834,7 +12087,7 @@
     "priceCents": 3999,
     "currency": "USD",
     "quantity": 1,
-    "category": "Vintage & Unique Finds",
+    "category": "Antique Dishes",
     "tags": [],
     "materials": "",
     "images": [
@@ -11870,7 +12123,8 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427355866072_3929"
-    }
+    },
+    "collections": []
   },
   {
     "id": "427327883510_EC71",
@@ -11881,7 +12135,7 @@
     "priceCents": 3499,
     "currency": "USD",
     "quantity": 1,
-    "category": "Glass & Bottles",
+    "category": "Vintage home decor and glassware",
     "tags": [
       "Art_Deco",
       "barware",
@@ -11924,6 +12178,7 @@
       "VARIATION 3 NAME": "",
       "VARIATION 3 VALUES": "",
       "SKU": "427327883510_EC71"
-    }
+    },
+    "collections": []
   }
 ]
