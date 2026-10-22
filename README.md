@@ -22,6 +22,8 @@ python scripts/import-etsy.py /path/to/EtsyListingsDownload.csv
 
 The imported catalog has no checkout, shipping-rate, tax, or live-inventory integration. Confirm inventory and fulfillment before enabling orders. The grandfather clock description states that local pickup is preferred and freight requires discussion; that wording is preserved.
 
-## Earlier application
+## Deployment requirements
 
-The existing `frontend/` and `backend/` directories contain the previous photo-compositing application. They are retained for recovery but are not used by the rebuilt Netlify storefront. Do not deploy that backend to serve this catalog.
+Deploy the repository root with an empty base directory, no build command, and `storefront` as the publish directory, as defined in `netlify.toml`. This store does not need Node, React, Python, MongoDB, an AI provider, or API keys to build or run.
+
+The previous photo-compositing application has been removed from the current source. It is recoverable from Git history. Its former frontend/backend directories must not be used as deployment roots. Existing host-level base directory or build overrides must be cleared if they still select the old app.
