@@ -10,14 +10,14 @@ def category(title, description=''):
  t=title.lower()
  if re.search(r'price guide|collector knives',t):return 'Miscellaneous'
  groups=[
- ('Vintage fishing and outdoors',r'\breel\b|\brod\b|fishing|baitcast|spincast|tackle|camping|hunting'),
- ('Vintage knifes',r'\bknife\b|\bknives\b|\bdagger\b|\bbayonet\b'),
- ('Vintage tools',r'drill|saw\b|winch|nailer|sander|vacuum pump|floor jack|impact driver|tool|angle grinder|staple gun'),
- ('Vintage electronics',r'barcode scanner|radio|speaker|karaoke|transistor|camera|cassette|turntable|stereo'),
- ('Antique jars and bottles',r'bottle|\bjar\b|\bjars\b|decanter|\bflask\b|glass jug'),
- ('Antique Dishes',r'china|dish|bowl|plate|skillet|kitchen|tea cup|teapot|tea.*set|casserole|coffee pot|percolator|saucer|platter|sugar|chip.*dip|serving tray|compote'),
- ('Vintage home decor and glassware',r'glass|crystal|clock|lamp|decor|figurine|vase|plaque|sign\b|sculpture|frame|framed|lantern|bust|insulator|planter|thermometer|cabinet|stein|pitcher|carafe|canister|mirror|art print|lithograph|portrait|wooden elephant')]
- if re.search(r'anchor hocking|holly berry|vintage indonesia|homer laughlin eggshell|locks of scotland',t):return 'Antique Dishes'
+ ('Outdoors Vintage & Modern Fishing and Hunting',r'\breel\b|\brod\b|fishing|baitcast|spincast|tackle|camping|hunting'),
+ ('Knives',r'\bknife\b|\bknives\b|\bdagger\b|\bbayonet\b'),
+ ('Vintage and Modern Tools',r'drill|saw\b|winch|nailer|sander|vacuum pump|floor jack|impact driver|tool|angle grinder|staple gun'),
+ ('Vintage and Modern Electronics',r'barcode scanner|radio|speaker|karaoke|transistor|camera|cassette|turntable|stereo'),
+ ('Bottles and Jars of the Past',r'bottle|\bjar\b|\bjars\b|decanter|\bflask\b|glass jug'),
+ ('Antique Dishes and Cookware',r'china|dish|bowl|plate|skillet|kitchen|tea cup|teapot|tea.*set|casserole|coffee pot|percolator|saucer|platter|sugar|chip.*dip|serving tray|compote'),
+ ('Vintage Home Decor and Glassware',r'glass|crystal|clock|lamp|decor|figurine|vase|plaque|sign\b|sculpture|frame|framed|lantern|bust|insulator|planter|thermometer|cabinet|stein|pitcher|carafe|canister|mirror|art print|lithograph|portrait|wooden elephant')]
+ if re.search(r'anchor hocking|holly berry|vintage indonesia|homer laughlin eggshell|locks of scotland',t):return 'Antique Dishes and Cookware'
  return next((n for n,p in groups if re.search(p,t)), 'Miscellaneous')
 
 def collections(title):
