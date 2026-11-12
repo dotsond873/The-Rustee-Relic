@@ -1,6 +1,6 @@
 # Rustee Relic store manager
 
-Private, mobile-friendly catalog manager with email/password sign-in, product editing, image uploads, sold-out marking, and deletion. No checkout or order management is included.
+Private, mobile-friendly catalog manager with email/password sign-in, product editing, image uploads, sold-out marking, and deletion. It also runs the storefront's Stripe checkout (see **Online checkout** below). Orders, receipts and refunds are managed in the Stripe Dashboard.
 
 The public Render static site stays as it is. Run this directory as a separate Render **Web Service**. Its root URL is the admin login; `/admin` also works. GitHub stores catalog updates and photos durably, and the existing static site publishes commits to `main`. No catalog or image data relies on the service's temporary filesystem.
 
@@ -34,3 +34,42 @@ The editor loads the latest GitHub catalog and uses GitHub's file SHA to prevent
 ## Local validation
 
 `npm test` runs auth, CSRF, conflict, validation, preservation, upload rejection and logout checks using a mocked GitHub API. Local HTTP does not support the production Secure cookie, so use HTTPS for interactive login testing. Run `node --check server.mjs` and `node --check public/admin.js` for syntax checks.
+
+## Online checkout
+
+The storefront is static, so this service creates Stripe Checkout sessions for it. Shoppers build a cart on the site, choose shipping or pickup, and pay on Stripe's hosted page. Card details never touch this service or the site.
+
+How it behaves:
+
+- **Prices and stock** are read from `storefront/products.json` on GitHub when checkout starts. Nothing sent by the browser sets a price.
+- **Shipping** is a $12.50 flat rate per order to U.S. addresses (`SHIPPING_CENTS` in `checkout.mjs`). **Local pickup** in Decatur is free.
+- **Pickup-only items** are the ones with "Local pickup only (cannot be shipped)" ticked in the editor. An order containing one can only be picked up.
+- **Sales tax** is calculated by Stripe Tax. Stripe Tax must be switched on in the Stripe Dashboard (with your tax registration added) or session creation fails. Set `STRIPE_AUTOMATIC_TAX=false` to check out without tax.
+- **Holds**: starting checkout holds the items for about 31 minutes so two shoppers cannot buy the same piece. Holds live in memory and are lost if the service restarts.
+- **After payment** Stripe calls the webhook, which reduces the quantity in the catalog and commits it, so the item shows as sold once the site republishes. Stripe retries are recorded once.
+
+### Setup
+
+1. Add these **private environment variables in Render** on this service, never in GitHub files or chat:
+
+| Variable | Value |
+| --- | --- |
+| `STRIPE_SECRET_KEY` | Stripe secret key. Use the `sk_test_...` key first; switch to `sk_live_...` to take real payments |
+| `STRIPE_WEBHOOK_SECRET` | Signing secret (`whsec_...`) of the webhook endpoint created in step 2 |
+| `STRIPE_AUTOMATIC_TAX` | Optional. `false` turns Stripe Tax off |
+| `STORE_URL` | Optional. Defaults to `https://therusteerelic.com` |
+| `STORE_ORIGINS` | Optional. Comma-separated sites allowed to start checkout. Defaults to the store with and without `www` |
+
+2. In the Stripe Dashboard, add a webhook endpoint at `https://<this-service>.onrender.com/stripe/webhook` for the events `checkout.session.completed`, `checkout.session.async_payment_succeeded` and `checkout.session.expired`. Test mode and live mode have separate endpoints and separate signing secrets.
+3. Deploy this service manually (auto-deploy stays off).
+4. Put this service's address in `storefront/config.json` as `"checkoutApi": "https://<this-service>.onrender.com"` and merge to `main`. While that value is empty, or `STRIPE_SECRET_KEY` is missing, the store hides the cart and shows the "coming soon" wording.
+
+With a test key the cart shows "Test mode: no real payments are taken." Pay with card `4242 4242 4242 4242`, any future expiry and any CVC.
+
+### Limits to know
+
+- On Render's free tier the service sleeps. The store wakes it when a visitor arrives, but the cart can take up to a minute to appear and holds are cleared by each sleep. A paid instance avoids both.
+- For pickup orders Stripe calculates tax from the buyer's billing address, not the Decatur pickup location. Check with your tax adviser whether that suits you.
+- If two people do pay for the same one-of-a-kind item (possible after a restart), the service log names the order; refund the second buyer in Stripe.
+- Refunds and cancellations do not restock items. Set the quantity back in the editor.
+- `GET /checkout/status`, `POST /checkout/session` and `POST /stripe/webhook` are public by design. Everything under `/api/` still requires the owner sign-in.

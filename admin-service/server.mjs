@@ -2,6 +2,7 @@ import http from 'node:http';
 import {readFile} from 'node:fs/promises';
 import {randomBytes,scryptSync,timingSafeEqual} from 'node:crypto';
 import {fileURLToPath} from 'node:url';
+import {createCheckout} from './checkout.mjs';
 
 const env=process.env;
 const repo='dotsond873/The-Rustee-Relic', branch='main';
@@ -32,12 +33,32 @@ export function validateProduct(input,previous){
 }
 function session(req){const token=(req.headers.cookie||'').split(';').map(x=>x.trim()).find(x=>x.startsWith('rustee_session='))?.slice(15);const s=sessions.get(token);if(!s||s.expires<Date.now()){sessions.delete(token);throw new Failure(401,'Please sign in.');}return {token,...s};}
 function send(res,status,data){res.writeHead(status,{'Content-Type':'application/json'});res.end(JSON.stringify(data));}
+const checkout=createCheckout({env,github,contents,decode,branch});
+async function raw(req,limit){let size=0,chunks=[];for await(const c of req){size+=c.length;if(size>limit)throw new Failure(413,'Request too large.');chunks.push(c);}return Buffer.concat(chunks).toString('utf8');}
+// Public storefront checkout. These routes use no admin session and never touch admin data.
+async function publicRoute(req,res,url){
+ try{
+  if(url.pathname==='/stripe/webhook'){
+   if(req.method!=='POST')throw new Failure(405,'Method not allowed.');
+   return send(res,200,await checkout.webhook(await raw(req,1024*1024),req.headers['stripe-signature']));
+  }
+  if(!checkout.cors(req,res))throw new Failure(403,'Request blocked.');
+  if(req.method==='OPTIONS'){res.writeHead(204);return res.end();}
+  if(req.method==='GET'&&url.pathname==='/checkout/status')return send(res,200,checkout.status());
+  if(req.method==='POST'&&url.pathname==='/checkout/session'){
+   let input;try{input=JSON.parse(await raw(req,64*1024));}catch(e){throw e.status?e:new Failure(400,'Invalid request.');}
+   return send(res,200,await checkout.start(input));
+  }
+  throw new Failure(404,'Not found.');
+ }catch(e){if(!e.status)console.error('Checkout error:',e);send(res,e.status||500,{error:e.status?e.message:'Something went wrong. Try again.',...(e.extra||{})});}
+}
 export const server=http.createServer(async(req,res)=>{
  res.setHeader('Cache-Control','no-store');res.setHeader('X-Content-Type-Options','nosniff');res.setHeader('Referrer-Policy','no-referrer');res.setHeader('X-Frame-Options','DENY');
  res.setHeader('Content-Security-Policy',"default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' https: blob:; connect-src 'self'; frame-ancestors 'none'; base-uri 'none'; form-action 'self'");
  const url=new URL(req.url,'http://localhost');
  try{
   if(req.method==='GET'&&url.pathname==='/health')return send(res,200,{ok:true});
+  if(url.pathname.startsWith('/checkout/')||url.pathname==='/stripe/webhook')return await publicRoute(req,res,url);
   if(req.method==='GET'&&['/','/admin','/admin/','/admin.js','/admin.css'].includes(url.pathname)){
    const name=url.pathname.endsWith('.js')?'admin.js':url.pathname.endsWith('.css')?'admin.css':'index.html';
    res.setHeader('Content-Type',name.endsWith('.js')?'text/javascript':name.endsWith('.css')?'text/css':'text/html');return res.end(await readFile(new URL(`./public/${name}`,import.meta.url)));
